@@ -6,7 +6,7 @@ Support up to Navicat 15.
 
 This repository has been made for educational purposes only, please buy a navicat license if you're able to.
 
-We aim to make this code with legacy gcc version such as g++<=7 (because the filesystem api is still experimental).
+We aim to make this code work even with legacy gcc versions such as g++<=7 (because the filesystem api is still experimental at that moment).
 So this should work with distros which only has legacy gcc versions.
 
 Anyways you could refer to the original repository, which you can check out [here](https://github.com/FuLygon/Navicat-Linux)
