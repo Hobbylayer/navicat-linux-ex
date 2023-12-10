@@ -46,7 +46,7 @@ Assuming everything was downloaded in downloads directory (Example: `~/Downloads
    $ sudo apt-get install rapidjson-dev
 
    # clone this repository
-   $ git clone https://github.com/FuLygon/Navicat-Linux.git
+   $ git clone https://github.com/hobbylayer/navicat-linux-iex.git --depth=1
    ```
 
 ## 2. Installing Navicat
